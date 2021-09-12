@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="/html/styles.css">
+</head>
+<body>
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookstore>
+
+<book category="The Hobbit">
+  <title lang="en">The Hobbit</title>
+  <author>John Ronald Reuel Tolkien</author>
+  <year>1937</year>
+  <price>30.00</price>
+  <publication>1937</publication>
+  <copies>140.6 million</copies>
+  <dateofrelese>21 September 1937</dateofrelese>
+</book>
+
+<book category="CHILDREN">
+  <title lang="en">Harry Potter</title>
+  <author>J K. Rowling</author>
+  <year>2005</year>
+  <price>29.99</price>
+  <publication>1997</publication>
+  <copies>120 million</copies>
+  <dateofrelese>26 June 1997 </dateofrelese>
+</book>
+
+<book category="novella">
+  <title lang="en">The Little Prince</title>
+  <author>Antoine Marie Jean-Baptiste Roger, </author>
+   <year>1944</year>
+  <price>49.99</price>
+  <publication>1943</publication>
+  <copies>100 million</copies>
+  <dateofrelese>31 July 1944</dateofrelese>
+</book>
+
+<book category="WEB">
+  <title lang="en">Dream of the Red Chamber</title>
+  <author>Cáo Xuěqín</author>
+  <year>1988</year>
+  <price>39.95</price>
+  <publication>18th century</publication>
+  <copies>100 million</copies>
+  <dateofrelese>31 July 1988</dateofrelese>
+</book>
+<book category="WEB">
+  <title lang="en">The Lion, the Witch and the Wardrobe</title>
+  <author>Clive Staples Lewis </author>
+  <year>2003</year>
+  <price>39.95</price>
+  <publication>1950</publication>
+  <copies>85 million</copies>
+  <dateofrelese>28 June 1950</dateofrelese>
+</book>
+
+</bookstore>
+</body>
+</html>
